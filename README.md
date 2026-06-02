@@ -18,4 +18,4 @@ to BBMP and Karnataka Urban Development Department.
 HTML · CSS · JavaScript · EmailJS · Leaflet.js
 
 ## 👨‍💻 Built by
-Naren B — CSE Student, VIT-AP University
+Naren B — CSE Student, VIT University
